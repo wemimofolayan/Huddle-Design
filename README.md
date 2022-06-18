@@ -1,5 +1,5 @@
 # Huddle-Design
-##Task Title: Responsiveness and Media Queries
+## Task Title: Responsiveness and Media Queries
 
 3) Build a responsive landing page using the design. 
 
